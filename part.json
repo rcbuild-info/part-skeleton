@@ -1,7 +1,13 @@
-{"url": [""],
- "name": "",
- "manufacturer": "",
+{
  "category": "",
- "subpart": [],
  "equivalent": [],
- "replacement": []}
+ "manufacturer": "",
+ "name": "",
+ "replacement": [],
+ "subpart": [],
+ "urls": {
+  "store": [],
+  "related": [],
+  "manufacturer": []
+ }
+}
