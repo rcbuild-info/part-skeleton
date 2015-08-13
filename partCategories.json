@@ -36,13 +36,13 @@
       "description": "Flight controller that controls the ESCs and is the hub for many other things."},
 
     "prop" : {
-      "name": "Propellors",
+      "name": "Propellers",
       "short_name": "Prop",
       "order": 4,
       "similarBoost": 3,
       "multiple": true,
       "icon" : "",
-      "description": "Propellors used to create lift."},
+      "description": "Propellers used to create lift."},
 
     "arm": {
       "name": "Arms",
