@@ -1,13 +1,27 @@
 {
- "category": "",
+ "categories": [],
  "equivalent": [],
  "manufacturer": "",
  "name": "",
- "replacement": [],
  "subpart": [],
  "urls": {
   "manufacturer": [],
-  "related": [],
-  "store": []
- }
+  "related": []
+ },
+ "variants": [
+   {
+     "_example": true,
+     "url": "",
+     "price": "",
+     "quantity": 0,
+     "stock_quantity": "",
+     "stock_state": "",
+     "stock_text": "",
+     "description": "",
+     "location": "",
+     "timestamp": ""
+   }
+ ],
+ "version": 2,
+ "weight": ""
 }
